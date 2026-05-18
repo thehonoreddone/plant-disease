@@ -27,7 +27,7 @@ Bu projenin temel amacı, bitki yaprak görüntülerinden hastalıkları otomati
 
 ## Veri Seti
 
-Proje, [PlantVillage](https://www.kaggle.com/datasets/sarahsaleh/the-plantvillage-dataset) veri setini kullanmaktadır. Bu veri seti, farklı bitki türlerine ait sağlıklı ve hastalıklı yaprak görüntülerinden oluşmaktadır. Veri seti, Google Drive üzerinden `archive.zip` olarak yüklenip `/content/dataset/PlantVillage` dizinine çıkarılmaktadır.
+Proje, [PlantVillage](https://www.kaggle.com/datasets/emmarex/plantdisease) veri setini kullanmaktadır. Bu veri seti, farklı bitki türlerine ait sağlıklı ve hastalıklı yaprak görüntülerinden oluşmaktadır. Veri seti, Google Drive üzerinden `archive.zip` olarak yüklenip `/content/dataset/PlantVillage` dizinine çıkarılmaktadır.
 
 ## Model Mimarisi
 
